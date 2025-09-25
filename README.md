@@ -31,6 +31,14 @@ Vincze, O., F. Colchero, J.-F. Lemaître, D. A. Conde, S. Pavard, M. Bieuville, 
 
 Compton, Z. T., W. Mellon, V. K. Harris, S. Rupp, D. Mallo, S. E. Kapsetaki, M. Wilmot, R. Kennington, K. Noble, C. Baciu, L. N. Ramirez, A. Peraza, B. Martins, S. Sudhakar, S. Aksoy, G. Furukawa, O. Vincze, M. Giraudeau, E. G. Duke, S. Spiro, E. Flach, H. Davidson, C. I. Li, A. Zehnder, T. A. Graham, B. V. Troan, T. M. Harrison, M. Tollis, J. D. Schiffman, C. A. Aktipis, L. M. Abegglen, C. C. Maley, and A. M. Boddy. 2024. Cancer Prevalence across Vertebrates. Cancer Discovery, https://doi.org/10.1158/2159-8290.CD-24-0573
 
+Dujon, A.M., Vincze, O., Lemaitre, J.-F., Alix-Panabières, C., Pujol, P., Giraudeau, M., et al. (2023b). The effect of placentation type, litter size, lactation and gestation length on cancer risk in mammals. Proceedings of the Royal Society B: Biological Sciences, 290, 20230940. https://doi.org/10.1098/rspb.2023.0940
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Phylogenies were obtained from TimeTree websiste (https://timetree.org/)
+
+Bibliometric data was obtained form the Scopus database (https://www.scopus.com) 
+
+Wikipedia page views were obtained using the Wikimedia website (https://commons.wikimedia.org/)
+
+Economic data was obtained from the International Monetary Fund website (https://www.imf.org/)
