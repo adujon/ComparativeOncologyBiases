@@ -1,18 +1,12 @@
 # ComparativeOncologyBiases
 
-This repository contains the codes and raw datasets used to perform the analyses in the following manuscript:
+This repository contains the codes and raw datasets used to perform the analyses in the following publication:
 
 The Cost of Fame: Strong Biases in Comparative Oncology of Captive Species
 
-Antoine M. Dujon1,2*, Jonas Courtalon2 , Klara Asselin2, Frédéric Thomas1,2
-
-1Deakin University, Geelong, School of Life and Environmental Sciences, Centre for Integrative Ecology, Waurn Ponds, Vic 3216, Australia. 
-
-2CREEC/(CREES), MIVEGEC, Unité Mixte de Recherches, IRD 224–CNRS 5290–Université de Montpellier, Montpellier, France
+Dujon AM, Courtalon J, Asselin K, Thomas F. 2026 The Cost of Fame For Popular Species: Strong Risk of Bias in Comparative Oncology of Captive Species. Proceedings of the Royal Society B: Biological Sciences (doi:https://doi.org/10.1098/rspb)
 
 Corresponding author: antoine.dujon@yahoo.fr
-
-Preprint available on BioArxiv: 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
