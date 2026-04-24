@@ -14,7 +14,7 @@ The rawdata folder contains the cancer prevalence raw, body mass and maximum lon
 
 The phylogenies folder contains the phylogenetic trees used in the Bayesian phylogenetic models
 
-The Regressions folder contains the R scripts used to fit the model for each taxa and study (code are fully annotated)
+The Regressions folder contains the R scripts used to fit the model for each taxa and study (codes are fully annotated)
 
 Raw cancer prevalence data was sourced from the following publications
 
