@@ -2,9 +2,11 @@
 
 This repository contains the codes and raw datasets used to perform the analyses in the following publication:
 
-The Cost of Fame: Strong Biases in Comparative Oncology of Captive Species
+The cost of fame for popular species: strong risk of biases in comparative oncology of captive species
 
 Dujon AM, Courtalon J, Asselin K, Thomas F. 2026 The Cost of Fame For Popular Species: Strong Risk of Bias in Comparative Oncology of Captive Species. Proceedings of the Royal Society B: Biological Sciences (doi:https://doi.org/10.1098/rspb)
+
+Link to the publication: https://royalsocietypublishing.org/rspb/article/293/2072/20260504/482052/The-cost-of-fame-for-popular-species-strong-risk
 
 Corresponding author: antoine.dujon@yahoo.fr
 
