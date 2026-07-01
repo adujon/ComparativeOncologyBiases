@@ -30,6 +30,10 @@ Compton, Z. T., W. Mellon, V. K. Harris, S. Rupp, D. Mallo, S. E. Kapsetaki, M. 
 
 Dujon, A.M., Vincze, O., Lemaitre, J.-F., Alix-Panabières, C., Pujol, P., Giraudeau, M., et al. (2023b). The effect of placentation type, litter size, lactation and gestation length on cancer risk in mammals. Proceedings of the Royal Society B: Biological Sciences, 290, 20230940. https://doi.org/10.1098/rspb.2023.0940
 
+IMPORTANT: Vincze et al. provide two cancer-mortality metrics: the incidence of cancer mortality, or ICM, and the cumulative mortality risk, or CMR. ICM is a survival/competing-risk estimate of the probability that an adult individual dies from cancer, while accounting for age structure and censored individuals. Vincze et al. designed this metric to reduce biases arising from left truncation and right censoring, including individuals that were still alive at the time of data extraction and whose eventual cause of death was therefore unknown. For this reason, we used ICM as our main cancer-mortality metric.
+Because the ICM values were provided as point estimates, we converted them into derived event counts so that they could be analysed using binomial regression models. Specifically, we calculated:
+derived cancer-mortality events = round(ICM × number of necropsied individuals)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Phylogenies were obtained from TimeTree websiste (https://timetree.org/)
