@@ -12,7 +12,7 @@ Corresponding author: antoine.dujon@yahoo.fr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-The rawdata folder contains the cancer prevalence raw, body mass and maximum longevities datasets included in the manuscript
+The rawdata folder contains the datasets used in the publication
 
 The phylogenies folder contains the phylogenetic trees used in the Bayesian phylogenetic models
 
