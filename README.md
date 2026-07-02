@@ -18,7 +18,12 @@ The phylogenies folder contains the phylogenetic trees used in the Bayesian phyl
 
 The Regressions folder contains the R scripts used to fit the model for each taxa and study (codes are fully annotated)
 
-Raw cancer prevalence data was sourced from the following publications
+The post-publication reanalysis folder contain addtional analyses conducted after recieving feedback on our published manuscript (see bellow for details)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Data sources:
+
+Raw cancer prevalence data and other life history trait metrics were sourced from the following publications
 
 Kapsetaki, S. E., Z. T. Compton, J. Dolan, V. Κ. Harris, W. Mellon, S. M. Rupp, E. G. Duke, T. M. Harrison, S. Aksoy, M. Giraudeau, O. Vincze, K. J. McGraw, A. Aktipis, M. Tollis, A. Μ. Boddy, and C. C. Maley. 2024. Life history traits and cancer prevalence in birds. Evol Med Public Health, doi: 10.1093/emph/eoae011
 
