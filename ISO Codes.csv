@@ -1,0 +1,174 @@
+Country,Code,Type
+Abkhazian,ab,Living
+Afar,aa,Living
+Afrikaans,af,Living
+Akan,ak,Living
+Albanian,sq,Living
+Amharic,am,Living
+Arabic,ar,Living
+Aragonese,an,Living
+Armenian,hy,Living
+Assamese,as,Living
+Avaric,av,Living
+Aymara,ay,Living
+Azerbaijani,az,Living
+Bambara,bm,Living
+Bashkir,ba,Living
+Basque,eu,Living
+Belarusian,be,Living
+Bengali,bn,Living
+Bislama,bi,Living
+Bosnian,bs,Living
+Breton,br,Living
+Bulgarian,bg,Living
+Burmese,my,Living
+"Catalan, Valencian",ca,Living
+Chamorro,ch,Living
+Chechen,ce,Living
+"Chichewa, Chewa, Nyanja",ny,Living
+Chinese,zh,Living
+Chuvash,cv,Living
+Cornish,kw,Living
+Corsican,co,Living
+Cree,cr,Living
+Croatian,hr,Living
+Czech,cs,Living
+Danish,da,Living
+"Divehi, Dhivehi, Maldivian",dv,Living
+"Dutch, Flemish",nl,Living
+Dzongkha,dz,Living
+English,en,Living
+Estonian,et,Living
+Ewe,ee,Living
+Faroese,fo,Living
+Fijian,fj,Living
+Finnish,fi,Living
+French,fr,Living
+Western Frisian,fy,Living
+Fulah,ff,Living
+"Gaelic, Scottish Gaelic",gd,Living
+Galician,gl,Living
+Ganda,lg,Living
+Georgian,ka,Living
+German,de,Living
+"Greek, Modern (1453–)",el,Living
+"Kalaallisut, Greenlandic",kl,Living
+Guarani,gn,Living
+Gujarati,gu,Living
+"Haitian, Haitian Creole",ht,Living
+Hausa,ha,Living
+Hebrew,he,Living
+Herero,hz,Living
+Hindi,hi,Living
+Hiri Motu,ho,Living
+Hungarian,hu,Living
+Icelandic,is,Living
+Igbo,ig,Living
+Indonesian,id,Living
+Inuktitut,iu,Living
+Inupiaq,ik,Living
+Irish,ga,Living
+Italian,it,Living
+Japanese,ja,Living
+Javanese,jv,Living
+Kannada,kn,Living
+Kanuri,kr,Living
+Kashmiri,ks,Living
+Kazakh,kk,Living
+Central Khmer,km,Living
+"Kikuyu, Gikuyu",ki,Living
+Kinyarwanda,rw,Living
+"Kyrgyz, Kirghiz",ky,Living
+Komi,kv,Living
+Kongo,kg,Living
+Korean,ko,Living
+"Kuanyama, Kwanyama",kj,Living
+Kurdish,ku,Living
+Lao,lo,Living
+Latvian,lv,Living
+"Limburgan, Limburger, Limburgish",li,Living
+Lingala,ln,Living
+Lithuanian,lt,Living
+Luba-Katanga,lu,Living
+"Luxembourgish, Letzeburgesch",lb,Living
+Macedonian,mk,Living
+Malagasy,mg,Living
+Malay,ms,Living
+Malayalam,ml,Living
+Maltese,mt,Living
+Manx,gv,Living
+Maori,mi,Living
+Marathi,mr,Living
+Marshallese,mh,Living
+Mongolian,mn,Living
+Nauru,na,Living
+"Navajo, Navaho",nv,Living
+North Ndebele,nd,Living
+South Ndebele,nr,Living
+Ndonga,ng,Living
+Nepali,ne,Living
+Norwegian,no,Living
+Norwegian Bokmål,nb,Living
+Norwegian Nynorsk,nn,Living
+Occitan,oc,Living
+Ojibwa,oj,Living
+Oriya,or,Living
+Oromo,om,Living
+"Ossetian, Ossetic",os,Living
+"Pashto, Pushto",ps,Living
+Persian,fa,Living
+Polish,pl,Living
+Portuguese,pt,Living
+"Punjabi, Panjabi",pa,Living
+Quechua,qu,Living
+"Romanian, Moldavian, Moldovan",ro,Living
+Romansh,rm,Living
+Rundi,rn,Living
+Russian,ru,Living
+Northern Sami,se,Living
+Samoan,sm,Living
+Sango,sg,Living
+Sardinian,sc,Living
+Serbian,sr,Living
+Shona,sn,Living
+Sindhi,sd,Living
+"Sinhala, Sinhalese",si,Living
+Slovak,sk,Living
+Slovenian,sl,Living
+Somali,so,Living
+Southern Sotho,st,Living
+"Spanish, Castilian",es,Living
+Sundanese,su,Living
+Swahili,sw,Living
+Swati,ss,Living
+Swedish,sv,Living
+Tagalog,tl,Living
+Tahitian,ty,Living
+Tajik,tg,Living
+Tamil,ta,Living
+Tatar,tt,Living
+Telugu,te,Living
+Thai,th,Living
+Tibetan,bo,Living
+Tigrinya,ti,Living
+Tonga (Tonga Islands),to,Living
+Tsonga,ts,Living
+Tswana,tn,Living
+Turkish,tr,Living
+Turkmen,tk,Living
+Twi,tw,Living
+"Uighur, Uyghur",ug,Living
+Ukrainian,uk,Living
+Urdu,ur,Living
+Uzbek,uz,Living
+Venda,ve,Living
+Vietnamese,vi,Living
+Walloon,wa,Living
+Welsh,cy,Living
+Wolof,wo,Living
+Xhosa,xh,Living
+"Sichuan Yi, Nuosu",ii,Living
+Yiddish,yi,Living
+Yoruba,yo,Living
+"Zhuang, Chuang",za,Living
+Zulu,zu,Living
