@@ -40,6 +40,6 @@ Phylogenies were obtained from TimeTree websiste (https://timetree.org/)
 
 Bibliometric data was obtained form the Scopus database (https://www.scopus.com) 
 
-Wikipedia page views were obtained using the Wikimedia website (https://commons.wikimedia.org/) using the custom made script "Get Wikipedia page views.R". The script uses ISO language codes (contained in the ISO Codes .csv file) to access Wikipedia pages in different languages and download the number of page views for each species based on its scientific (binomial) name. The script uses the scientific name of the species (aka binomial name) to obtain page views. 
+Wikipedia page views were obtained using the Wikimedia website (https://commons.wikimedia.org/) using the custom made script "Get Wikipedia page views.R". The script uses ISO language codes (contained in the ISO Codes .csv file) to access Wikipedia pages in different languages and download the number of page views for each species based on its scientific (binomial) name. 
 
 Economic data was obtained from the International Monetary Fund website (https://www.imf.org/)
