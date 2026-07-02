@@ -43,7 +43,7 @@ derived cancer-mortality events = round(ICM × number of necropsied individuals)
 
 Phylogenies were obtained from TimeTree websiste (https://timetree.org/)
 
-Bibliometric data was obtained form the Scopus database (https://www.scopus.com) 
+Bibliometric data was obtained form the Scopus database (https://www.scopus.com) using the citation overview tool after searching for the species scientific names (aka their binomial name) between quotation marks: for example Ailurus fulgens is searched as "Ailurus fulgens".
 
 Wikipedia page views were obtained using the Wikimedia website (https://commons.wikimedia.org/) using the custom made script "Get Wikipedia page views.R". The script uses ISO language codes (contained in the ISO Codes .csv file) to access Wikipedia pages in different languages and download the number of page views for each species based on its scientific (binomial) name. 
 
