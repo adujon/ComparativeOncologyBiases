@@ -8,6 +8,8 @@ Dujon AM, Courtalon J, Asselin K, Thomas F. 2026 The Cost of Fame For Popular Sp
 
 Link to the publication: https://royalsocietypublishing.org/rspb/article/293/2072/20260504/482052/The-cost-of-fame-for-popular-species-strong-risk
 
+If you are accessing this project through the Zenodo repository, you can also find it on GitHub, where additional post-publication reanalyses may be posted: https://github.com/adujon/ComparativeOncologyBiases
+
 Corresponding author: antoine.dujon@yahoo.fr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -41,9 +43,9 @@ derived cancer-mortality events = round(ICM × number of necropsied individuals)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-Phylogenies were obtained from TimeTree websiste (https://timetree.org/)
+Phylogenies were obtained from TimeTree website (https://timetree.org/)
 
-Bibliometric data was obtained form the Scopus database (https://www.scopus.com) using the citation overview tool after searching for the species scientific names (aka their binomial name) between quotation marks: for example Ailurus fulgens is searched as "Ailurus fulgens".
+Bibliometric data was obtained from the Scopus database (https://www.scopus.com) using the citation overview tool after searching for the species scientific names (aka their binomial name) between quotation marks: for example Ailurus fulgens is searched as "Ailurus fulgens".
 
 Wikipedia page views were obtained using the Wikimedia website (https://commons.wikimedia.org/) using the custom made script "Get Wikipedia page views.R". The script uses ISO language codes (contained in the ISO Codes .csv file) to access Wikipedia pages in different languages and download the number of page views for each species based on its scientific (binomial) name. 
 
