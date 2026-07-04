@@ -20,7 +20,7 @@ The phylogenies folder contains the phylogenetic trees used in the Bayesian phyl
 
 The Regressions folder contains the R scripts used to fit the model for each taxa and study (codes are fully annotated)
 
-The post-publication reanalysis folder contain addtional analyses conducted after recieving feedback on our published manuscript (see bellow for details)
+The post-publication reanalysis folder contain addtional analyses conducted after recieving feedback on our published manuscript (see bellow for details). Those reanalyses confirm our results.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Data sources:
